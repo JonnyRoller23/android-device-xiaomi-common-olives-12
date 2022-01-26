@@ -123,6 +123,9 @@ PRODUCT_PACKAGES += \
     ViaBrowser
 
 PRODUCT_PACKAGES += \
+    SimpleGallery
+
+PRODUCT_PACKAGES += \
     Snap
 
 PRODUCT_PACKAGES += \
