@@ -120,6 +120,9 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
+    ViaBrowser
+
+PRODUCT_PACKAGES += \
     Snap
 
 PRODUCT_PACKAGES += \
