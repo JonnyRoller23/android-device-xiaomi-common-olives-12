@@ -126,6 +126,9 @@ PRODUCT_PACKAGES += \
     SimpleGallery
 
 PRODUCT_PACKAGES += \
+    GoogleCameraGO
+
+PRODUCT_PACKAGES += \
     Snap
 
 PRODUCT_PACKAGES += \
